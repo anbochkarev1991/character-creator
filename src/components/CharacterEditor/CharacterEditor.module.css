@@ -30,3 +30,13 @@
 .controlColumn {
 
 }
+
+.perspectiveRectangle {
+  position: fixed;
+  z-index: -1;
+  bottom: 8px;
+  margin-bottom: -64px;
+  width: 100vw;
+  height: 40vh;
+  background-color: hsl(195deg, 20%, 86%);
+}
